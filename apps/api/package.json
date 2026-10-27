@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@invisible-dots/shared": "0.0.0",
-    "fastify": "^5.12.5",
+    "fastify": "^5.12.7",
     "@invisible-dots/channels": "0.0.0",
     "@invisible-dots/database": "0.0.0",
     "@invisible-dots/events": "0.0.0",
